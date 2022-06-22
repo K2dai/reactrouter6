@@ -1,0 +1,14 @@
+.box{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    height: 1.875rem
+}
+.box>a{
+    text-decoration: none;
+}
+.mactive{
+    color: red;
+}
